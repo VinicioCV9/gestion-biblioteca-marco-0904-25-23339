@@ -10,7 +10,4 @@ package com.marco.gestion.biblioteca.marco;
  */
 public class GestionBibliotecaMarco {
 
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
     }
-}
